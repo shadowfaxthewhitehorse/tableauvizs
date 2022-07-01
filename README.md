@@ -1,4 +1,4 @@
 # tableauvizs
 
-# This reporistory has my Tableau visualizations.
+# This repo has my Tableau visualizations.
 
