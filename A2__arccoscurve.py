@@ -1,4 +1,4 @@
-# PYTHON PROGRAM - SOSINE CURVE
+# PYTHON PROGRAM - ARCCOS() CURVE
 from bokeh.plotting import figure, output_file, show
 
 import numpy as np
