@@ -2,7 +2,7 @@
 
 # This repo has my visualizations, including those from Tableau.
 #
-# All the files in this folder pertain to visualizations, except the few files with the prefix C0_CHINA*. 
+# All the files in this folder pertain to visualizations I have created either by myself or as part of a team, except the few files with the prefix C0_CHINA*. 
 #
 # The files with the prefix CO_CHINA* form a set of photographs comprising:
 #
