@@ -6,7 +6,7 @@ All the files in this folder pertain to visualizations, except the few files wit
 
 The files with the prefix CO_CHINA* form a set of photographs comprising:
 
-- a first set of photos of shops in China, done as part of graphic design work for a firm.
-- a second set of other photographs taken in China, also done as part of graphic design work for a firm.
+- a first set of photos of shops in China, done as part of visualization work for a firm.
+- a second set of other photographs taken in China, also done as part of visualization work for a firm.
 
 If you need the code for Bokeh and/or access to the Tableau workbooks, please contact me directly. 
