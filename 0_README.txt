@@ -13,6 +13,12 @@ If you need the code for Bokeh and/or access to the Tableau workbooks, please co
 
 NOTES:
 
-1. D0, D1, D2: these files comprise the output of Bokeh code for the visualization of stock data. Stock prices of the prices of the stock of Microsoft, IBM, et cetera, are visualized.
+1. E series (that is, files with the prefix E0, E1, et cetera): these files comprise the output of Bokeh code for the visualization of stock price data. Stock prices of selected stocks are compared against each other. Software used: Bokeh, Google Colab.
 
-2. E0, E1: these files comprise the output of Bokeh code for the visualization of stock price data. Stock prices of selected stocks are compared against each other.
+2. A1 series: a visualization of Indian Parliamentary Election results. Software used: Bokeh, Google Colab, IDLE.
+
+3. 9 series: a visualization of trigonometric curves. Software used: Bokeh, Google Colab.
+
+4. A2 series: a visualization of trigonometric curves. Software used: Bokeh, Google Colab.
+
+5. A3 series: a visualization of bar plots. Software used: Bokeh.
