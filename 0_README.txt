@@ -29,3 +29,5 @@ of selected stocks are compared against each other. Software used: Bokeh, Google
 
 6. 3 series: a visualization overlaid on map data. Software used: Bokeh, Python. The type of map can be changed based on a parameter specified in a parameter file. 
 Generally speaking, both political maps and terrain maps can be generated.
+
+[==+==]
