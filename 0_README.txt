@@ -25,7 +25,7 @@ of selected stocks are compared against each other. Software used: Bokeh, Google
 
 4. A2 series: a visualization of trigonometric curves. Software used: Bokeh, Google Colab.
 
-5. A3 series: a visualization of bar plots. Software used: Bokeh.
+5. A3 series: a visualization of bar plots for an audio transcription project. Software used: Bokeh.
 
 6. 3 series: a visualization overlaid on map data. Software used: Bokeh, Python. The type of map can be changed based on a parameter specified in a parameter file. 
 Generally speaking, both political maps and terrain maps can be generated.
