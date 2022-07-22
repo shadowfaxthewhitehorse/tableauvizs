@@ -39,3 +39,12 @@ https://anandmanikutty2018.wixsite.com/anandspersonalblog/my-blog
 
 
 [==+==]
+
+More visualizations available here:
+https://github.com/shadowfaxthewhitehorse/bokehvizs
+
+Make sure to read the README first. Available here:
+https://github.com/shadowfaxthewhitehorse/bokehvizs/blob/main/README.md
+
+[==+==]
+
