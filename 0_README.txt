@@ -34,7 +34,8 @@ two published books of poetry. A Reddit AskMeAnything was done for the first boo
 say that academics involving eminent economists such as Tyler Cowen have actually read said work.
 
 8. 7 series, 8 series: a visualization of a number of my projects, including a book I contributed while a student at Harvard Business School. More 
-information available at: https://anandmanikutty2018.wixsite.com/anandspersonalblog/home/
+information available at: https://anandmanikutty2018.wixsite.com/anandspersonalblog/home/ and
+https://anandmanikutty2018.wixsite.com/anandspersonalblog/my-blog
 
 
 [==+==]
