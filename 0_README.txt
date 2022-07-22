@@ -22,3 +22,5 @@ NOTES:
 4. A2 series: a visualization of trigonometric curves. Software used: Bokeh, Google Colab.
 
 5. A3 series: a visualization of bar plots. Software used: Bokeh.
+
+6. 3 series: a visualization overlaid on Map data. Software used: Bokeh, Python.
