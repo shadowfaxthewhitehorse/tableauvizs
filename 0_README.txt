@@ -27,4 +27,7 @@ NOTES:
 
 7. 6 series: a visualization generated for an A.I. project for generating poetry using Artificial Intelligence. The project called Charlotte resulted in two published books of poetry. A Reddit AskMeAnything was done for the first book. A new Theory of History was presented in the second book. Very pleased to say that academics involving eminent economists such as Tyler Cowen have actually read said work.
 
-8. 7 series, 8 series: a visualization of a number of my projects, including a book I contributed while a student at Harvard Business School. More information available at: http://www.anandmanikutty.com/
+8. 7 series, 8 series: a visualization of a number of my projects, including a book I contributed while a student at Harvard Business School. More information available at: https://anandmanikutty2018.wixsite.com/anandspersonalblog/home/
+
+
+[==+==]
