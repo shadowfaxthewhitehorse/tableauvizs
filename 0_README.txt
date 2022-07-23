@@ -39,6 +39,8 @@ say that academics involving eminent economists such as Tyler Cowen have actuall
 information available at: https://anandmanikutty2018.wixsite.com/anandspersonalblog/home/ and
 https://anandmanikutty2018.wixsite.com/anandspersonalblog/my-blog
 
+9. G series: visualizations generated on church attendance. Software used: PowerBI.
+
 
 [==+==]
 
