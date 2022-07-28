@@ -1,0 +1,5 @@
+# The url.txt file
+#
+myurl = https://public.tableau.com/app/profile/cynthia.sample/viz/Covid-19andEconomyImpact_16590035145240/Dashboard1?publish=yes
+
+# print(myurl)
