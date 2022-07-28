@@ -1,0 +1,3 @@
+# The url.txt file
+#
+URL = https://public.tableau.com/app/profile/cynthia.sample/viz/VisualizationsofTopTableauFreelancersByRace/Dashboard1?publish=yes
