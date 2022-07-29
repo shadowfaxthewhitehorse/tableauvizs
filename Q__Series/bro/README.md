@@ -7,4 +7,4 @@ The JPG file ourbro.[JPG, png, jpg, ...] in this folder is courtesy the "Age of 
 
 Link: https://cryptototem.com/age-of-gods-aog/
 
-Do you want to earn crypto tokens while playing a game? If so, please send email to: qwykrtech@gmail.com.
+Do you want to earn crypto tokens while playing a game? If so, please send email to: qwykrtech@gmail.com indicating your interest
