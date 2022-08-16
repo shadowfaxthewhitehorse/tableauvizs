@@ -9,4 +9,4 @@ Hope you enjoy the photographs and the visualizations.
 Credits:
 =========
 * photos by Reethika Ramesh
-* PDF, et cetera, by Anand Manikutty
+* coding, PDF generation, et cetera, by Anand Manikutty
