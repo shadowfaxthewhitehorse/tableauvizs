@@ -1,4 +1,4 @@
 ## README
 #
-This directory contains the README file for the images created for the India Independence Data Visualization project.
+This file is the README file for the images created for the India Independence Day Data Visualization project.
 
